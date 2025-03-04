@@ -4,7 +4,7 @@ Rakesh Kumar Rai | Software Developer
 Passionate Software Developer with expertise in full-stack development, specializing in Python, FastAPI, React, and AWS. Currently interning at Vedaion Technologies, building microservices, improving UI/UX, and exploring cutting-edge solutions that solve real-world problems.
 
 💼 Professional Experience
-Software Developer Intern @ Vedion Technologies (Jan 2025 - Present)
+**Software Developer Intern** @ Vedion Technologies (Jan 2025 - Present)
   - Building robust microservices and aggregators using Python, FastAPI, and MySQL with a React frontend.
   - Managing and scaling systems on AWS.
   - Collaborating via Jira & GitHub to streamline development and improve feature delivery.
