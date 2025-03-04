@@ -29,4 +29,4 @@ Passionate Software Developer with expertise in full-stack development, speciali
 
 📫 Get in Touch
 - **Email**: [rakeshkrrai4work@gmail.com](mailto:rakeshkmrai.work@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/rakeshkr1029/) 
+- **LinkedIn**: https://www.linkedin.com/in/rakeshkr1029/
